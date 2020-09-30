@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PLOKMJNB&layout=compact&theme=buefy" />
+</a>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?PLOKMJNB=synterrr&show_icons=true)
+
 <!--
 **PLOKMJNB/PLOKMJNB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
