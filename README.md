@@ -8,11 +8,7 @@
 
 ---
 
-<!--### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/kPa62qXKQASoGnKsfD2_pA)
--->
-
+<iframe src="https://open.spotify.com/embed/track/1Q70eaVbwHkiV5a3NIBXW2" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 <!--
 **PLOKMJNB/PLOKMJNB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
